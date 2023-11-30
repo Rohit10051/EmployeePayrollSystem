@@ -10,7 +10,7 @@ abstract class Employee
     public Employee(String name,int Id)
     {
         this.name=name;//instance variable=local variable
-        this.Id=Id;
+        this.Id=Id;//help to input
     }
 
     public String getName()
